@@ -1,0 +1,20 @@
+2026-02-10 21:46:40,605 - Starting data ingestion... - INFO
+2026-02-10 21:46:40,651 - Data ingestion completed. Dataset shape: (5500, 17) - INFO
+2026-02-10 21:46:40,653 - Starting data preprocessing... - INFO
+2026-02-10 21:46:40,654 - Starting model building... - INFO
+2026-02-10 21:46:46,354 - Model building and SMOTE resampling completed. - INFO
+2026-02-10 21:46:46,354 - Starting model training and evaluation... - INFO
+2026-02-10 21:46:46,376 - Training logisticRegession... - INFO
+2026-02-10 21:46:47,018 - logisticRegession Done. - INFO
+2026-02-10 21:46:47,018 - Training DecisionTreeclassfier... - INFO
+2026-02-10 21:46:47,299 - DecisionTreeclassfier Done. - INFO
+2026-02-10 21:46:47,299 - Training RandomForestclassifier... - INFO
+2026-02-10 21:46:49,253 - RandomForestclassifier Done. - INFO
+2026-02-10 21:46:49,253 - Training GradientBoosting... - INFO
+2026-02-10 21:46:57,084 - GradientBoosting Done. - INFO
+2026-02-10 21:46:57,084 - Training AdaBoost... - INFO
+2026-02-10 21:46:58,469 - AdaBoost Done. - INFO
+2026-02-10 21:46:58,469 - Training SVC... - INFO
+2026-02-10 21:46:59,621 - SVC Done. - INFO
+2026-02-10 21:46:59,622 - Training KNeighbors... - INFO
+2026-02-10 21:46:59,780 - KNeighbors Done. - INFO
